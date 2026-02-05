@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S%20VIJAY%20ANAND&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VIJAY%20ANAND%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
 
 
 
@@ -99,11 +99,11 @@
 </p>
 
 ### 📜 LeetCode
-- 🔗 [View My LeetCode Profile](https://leetcode.com/u/vijayanand2005/)
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/VIJAYANANDV1725/)
 - 💻 Languages Used: Python
 
 <p>
-<img src="https://leetcard.jacoblin.cool/vijayanand2005?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
+<img src="https://leetcard.jacoblin.cool/VIJAYANANDV17255?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/vijayanand2005/vijayanand2005/output/github-contribution-grid-snake-dark.svg" width="100%"/>
