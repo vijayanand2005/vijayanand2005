@@ -99,7 +99,7 @@
 </p>
 
 ### 📜 LeetCode
-- 🔗 [View My LeetCode Profile](https://leetcode.com/u/VIJAYANANDV1725/)
+- 🔗 [View My LeetCode Profile]((https://leetcode.com/u/VIJAYANANDV1725/))
 - 💻 Languages Used: Python
 
 <p>
